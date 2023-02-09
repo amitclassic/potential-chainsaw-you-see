@@ -1,0 +1,38 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px rgb(104, 75, 75);
+  background-color: rgb(218, 112, 112);
+  
+}
+.note
+{
+  font-size: 20px;
+  color: rgb(87, 41, 41);
+  background-color: rgb(173, 85, 85);
+  border-radius: 10px;
+}
+.copy_right_footer {
+  position: fixed;
+  color: rgb(146, 80, 80);
+  bottom: 0;
+  width: 100%;
+  background-color:rgb(233, 162, 162);
+  line-height: 3;
+  text-align: center;
+}
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow:5px 5px 5px rgb(131, 81, 81);
+}
+
+body
+{
+    background-image: url("bacgkround.jpeg");
+    background-size: cover;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
